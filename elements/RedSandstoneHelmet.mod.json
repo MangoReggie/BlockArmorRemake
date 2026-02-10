@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Blocks.RED_SANDSTONE"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RedSandstone.helmet"
+    },
+    "name": "red_sandstone_helmet",
+    "namespace": "mod"
+  }
+}

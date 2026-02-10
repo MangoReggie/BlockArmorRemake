@@ -1,0 +1,15 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "SPACE",
+    "keyBindingName": "Floot",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "UnSink"
+    },
+    "onKeyReleased": {
+      "name": "FlootOnKeyReleased"
+    }
+  }
+}

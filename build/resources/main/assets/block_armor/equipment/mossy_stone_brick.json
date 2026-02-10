@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "block_armor:mossy_stone_brick"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "block_armor:mossy_stone_brick"
+      }
+    ]
+  }
+}

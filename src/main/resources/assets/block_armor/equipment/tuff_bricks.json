@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "block_armor:tuff_bricks"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "block_armor:tuff_bricks"
+      }
+    ]
+  }
+}

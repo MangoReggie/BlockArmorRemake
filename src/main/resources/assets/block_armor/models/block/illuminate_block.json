@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block_armor:block/transparent",
+    "particle": "block_armor:block/transparent"
+  },
+  "render_type": "translucent"
+}

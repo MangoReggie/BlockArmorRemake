@@ -1,0 +1,56 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Blocks.RED_MUSHROOM"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RedMushroom.legs"
+    },
+    "name": "red_mushroom_leggings",
+    "namespace": "mod"
+  }
+}

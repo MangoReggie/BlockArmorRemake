@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "block_armor:block/illuminate_block"
+    }
+  }
+}

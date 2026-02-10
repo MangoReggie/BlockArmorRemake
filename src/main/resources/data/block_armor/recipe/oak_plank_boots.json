@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:oak_planks"
+  },
+  "result": {
+    "id": "block_armor:oak_plank_boots",
+    "count": 1
+  }
+}

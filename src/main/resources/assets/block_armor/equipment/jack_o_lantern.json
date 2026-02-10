@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "block_armor:jack_o_lantern"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "block_armor:jack_o_lantern"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "block_armor:glowstone_chestplate",
+    "block_armor:honey_comb_chestplate",
+    "block_armor:mossy_stone_brick_chestplate",
+    "block_armor:amethyst_chestplate",
+    "block_armor:tuff_chestplate",
+    "block_armor:chorus_flower_chestplate",
+    "block_armor:obsidian_chestplate",
+    "block_armor:oak_plank_chestplate",
+    "block_armor:sponge_chestplate",
+    "block_armor:red_mushroom_chestplate",
+    "block_armor:jack_o_lantern_chestplate",
+    "block_armor:melon_chestplate",
+    "block_armor:dirt_chestplate",
+    "block_armor:stone_chestplate",
+    "block_armor:red_sandstone_chestplate",
+    "block_armor:brown_mushroom_chestplate",
+    "block_armor:bookshelf_chestplate",
+    "block_armor:calcite_chestplate",
+    "block_armor:tuff_bricks_chestplate",
+    "block_armor:granite_chestplate"
+  ]
+}

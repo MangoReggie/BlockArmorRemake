@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:stone"
+  },
+  "result": {
+    "id": "block_armor:stone_helmet",
+    "count": 1
+  }
+}
