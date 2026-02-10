@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "block_armor:obsidian_helmet",
-    "block_armor:obsidian_leggings",
-    "block_armor:obsidian_boots",
-    "block_armor:obsidian_chestplate"
-  ]
-}
