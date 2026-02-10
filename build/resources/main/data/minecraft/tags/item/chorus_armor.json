@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "block_armor:chorus_flower_helmet",
+    "block_armor:chorus_flower_leggings",
+    "block_armor:chorus_flower_chestplate",
+    "block_armor:chorus_flower_boots"
+  ]
+}

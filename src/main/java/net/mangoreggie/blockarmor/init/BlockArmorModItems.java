@@ -1,0 +1,187 @@
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mangoreggie.blockarmor.init;
+
+import net.minecraft.world.item.Items;
+import net.minecraft.world.item.Item;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.resources.ResourceKey;
+import net.minecraft.core.registries.Registries;
+
+import net.mangoreggie.blockarmor.item.*;
+import net.mangoreggie.blockarmor.BlockArmorMod;
+
+import java.util.function.Function;
+
+public class BlockArmorModItems {
+	public static Item DIRT_HELMET;
+	public static Item DIRT_CHESTPLATE;
+	public static Item DIRT_LEGGINGS;
+	public static Item DIRT_BOOTS;
+	public static Item STONE_HELMET;
+	public static Item STONE_CHESTPLATE;
+	public static Item STONE_LEGGINGS;
+	public static Item STONE_BOOTS;
+	public static Item GRANITE_HELMET;
+	public static Item GRANITE_CHESTPLATE;
+	public static Item GRANITE_LEGGINGS;
+	public static Item GRANITE_BOOTS;
+	public static Item MOSSY_STONE_BRICK_HELMET;
+	public static Item MOSSY_STONE_BRICK_CHESTPLATE;
+	public static Item MOSSY_STONE_BRICK_LEGGINGS;
+	public static Item MOSSY_STONE_BRICK_BOOTS;
+	public static Item OBSIDIAN_HELMET;
+	public static Item OBSIDIAN_CHESTPLATE;
+	public static Item OBSIDIAN_LEGGINGS;
+	public static Item OBSIDIAN_BOOTS;
+	public static Item AMETHYST_HELMET;
+	public static Item AMETHYST_CHESTPLATE;
+	public static Item AMETHYST_LEGGINGS;
+	public static Item AMETHYST_BOOTS;
+	public static Item HONEY_COMB_HELMET;
+	public static Item HONEY_COMB_CHESTPLATE;
+	public static Item HONEY_COMB_LEGGINGS;
+	public static Item HONEY_COMB_BOOTS;
+	public static Item TUFF_HELMET;
+	public static Item TUFF_CHESTPLATE;
+	public static Item TUFF_LEGGINGS;
+	public static Item TUFF_BOOTS;
+	public static Item GLOWSTONE_HELMET;
+	public static Item GLOWSTONE_CHESTPLATE;
+	public static Item GLOWSTONE_LEGGINGS;
+	public static Item GLOWSTONE_BOOTS;
+	public static Item SPONGE_HELMET;
+	public static Item SPONGE_CHESTPLATE;
+	public static Item SPONGE_LEGGINGS;
+	public static Item SPONGE_BOOTS;
+	public static Item TUFF_BRICKS_HELMET;
+	public static Item TUFF_BRICKS_CHESTPLATE;
+	public static Item TUFF_BRICKS_LEGGINGS;
+	public static Item TUFF_BRICKS_BOOTS;
+	public static Item OAK_PLANK_HELMET;
+	public static Item OAK_PLANK_CHESTPLATE;
+	public static Item OAK_PLANK_LEGGINGS;
+	public static Item OAK_PLANK_BOOTS;
+	public static Item CHORUS_FLOWER_HELMET;
+	public static Item CHORUS_FLOWER_CHESTPLATE;
+	public static Item CHORUS_FLOWER_LEGGINGS;
+	public static Item CHORUS_FLOWER_BOOTS;
+	public static Item MELON_HELMET;
+	public static Item MELON_CHESTPLATE;
+	public static Item MELON_LEGGINGS;
+	public static Item MELON_BOOTS;
+	public static Item RED_SANDSTONE_HELMET;
+	public static Item RED_SANDSTONE_CHESTPLATE;
+	public static Item RED_SANDSTONE_LEGGINGS;
+	public static Item RED_SANDSTONE_BOOTS;
+	public static Item BOOKSHELF_HELMET;
+	public static Item BOOKSHELF_CHESTPLATE;
+	public static Item BOOKSHELF_LEGGINGS;
+	public static Item BOOKSHELF_BOOTS;
+	public static Item JACK_O_LANTERN_HELMET;
+	public static Item JACK_O_LANTERN_CHESTPLATE;
+	public static Item JACK_O_LANTERN_LEGGINGS;
+	public static Item JACK_O_LANTERN_BOOTS;
+	public static Item RED_MUSHROOM_HELMET;
+	public static Item RED_MUSHROOM_CHESTPLATE;
+	public static Item RED_MUSHROOM_LEGGINGS;
+	public static Item RED_MUSHROOM_BOOTS;
+	public static Item CALCITE_HELMET;
+	public static Item CALCITE_CHESTPLATE;
+	public static Item CALCITE_LEGGINGS;
+	public static Item CALCITE_BOOTS;
+	public static Item BROWN_MUSHROOM_HELMET;
+	public static Item BROWN_MUSHROOM_CHESTPLATE;
+	public static Item BROWN_MUSHROOM_LEGGINGS;
+	public static Item BROWN_MUSHROOM_BOOTS;
+
+	public static void load() {
+		DIRT_HELMET = register("dirt_helmet", DirtArmorItem.Helmet::new);
+		DIRT_CHESTPLATE = register("dirt_chestplate", DirtArmorItem.Chestplate::new);
+		DIRT_LEGGINGS = register("dirt_leggings", DirtArmorItem.Leggings::new);
+		DIRT_BOOTS = register("dirt_boots", DirtArmorItem.Boots::new);
+		STONE_HELMET = register("stone_helmet", StoneItem.Helmet::new);
+		STONE_CHESTPLATE = register("stone_chestplate", StoneItem.Chestplate::new);
+		STONE_LEGGINGS = register("stone_leggings", StoneItem.Leggings::new);
+		STONE_BOOTS = register("stone_boots", StoneItem.Boots::new);
+		GRANITE_HELMET = register("granite_helmet", GraniteItem.Helmet::new);
+		GRANITE_CHESTPLATE = register("granite_chestplate", GraniteItem.Chestplate::new);
+		GRANITE_LEGGINGS = register("granite_leggings", GraniteItem.Leggings::new);
+		GRANITE_BOOTS = register("granite_boots", GraniteItem.Boots::new);
+		MOSSY_STONE_BRICK_HELMET = register("mossy_stone_brick_helmet", MossyStoneBrickItem.Helmet::new);
+		MOSSY_STONE_BRICK_CHESTPLATE = register("mossy_stone_brick_chestplate", MossyStoneBrickItem.Chestplate::new);
+		MOSSY_STONE_BRICK_LEGGINGS = register("mossy_stone_brick_leggings", MossyStoneBrickItem.Leggings::new);
+		MOSSY_STONE_BRICK_BOOTS = register("mossy_stone_brick_boots", MossyStoneBrickItem.Boots::new);
+		OBSIDIAN_HELMET = register("obsidian_helmet", ObsidianItem.Helmet::new);
+		OBSIDIAN_CHESTPLATE = register("obsidian_chestplate", ObsidianItem.Chestplate::new);
+		OBSIDIAN_LEGGINGS = register("obsidian_leggings", ObsidianItem.Leggings::new);
+		OBSIDIAN_BOOTS = register("obsidian_boots", ObsidianItem.Boots::new);
+		AMETHYST_HELMET = register("amethyst_helmet", AmethystItem.Helmet::new);
+		AMETHYST_CHESTPLATE = register("amethyst_chestplate", AmethystItem.Chestplate::new);
+		AMETHYST_LEGGINGS = register("amethyst_leggings", AmethystItem.Leggings::new);
+		AMETHYST_BOOTS = register("amethyst_boots", AmethystItem.Boots::new);
+		HONEY_COMB_HELMET = register("honey_comb_helmet", HoneyCombItem.Helmet::new);
+		HONEY_COMB_CHESTPLATE = register("honey_comb_chestplate", HoneyCombItem.Chestplate::new);
+		HONEY_COMB_LEGGINGS = register("honey_comb_leggings", HoneyCombItem.Leggings::new);
+		HONEY_COMB_BOOTS = register("honey_comb_boots", HoneyCombItem.Boots::new);
+		TUFF_HELMET = register("tuff_helmet", TuffItem.Helmet::new);
+		TUFF_CHESTPLATE = register("tuff_chestplate", TuffItem.Chestplate::new);
+		TUFF_LEGGINGS = register("tuff_leggings", TuffItem.Leggings::new);
+		TUFF_BOOTS = register("tuff_boots", TuffItem.Boots::new);
+		GLOWSTONE_HELMET = register("glowstone_helmet", GlowstoneItem.Helmet::new);
+		GLOWSTONE_CHESTPLATE = register("glowstone_chestplate", GlowstoneItem.Chestplate::new);
+		GLOWSTONE_LEGGINGS = register("glowstone_leggings", GlowstoneItem.Leggings::new);
+		GLOWSTONE_BOOTS = register("glowstone_boots", GlowstoneItem.Boots::new);
+		SPONGE_HELMET = register("sponge_helmet", SpongeItem.Helmet::new);
+		SPONGE_CHESTPLATE = register("sponge_chestplate", SpongeItem.Chestplate::new);
+		SPONGE_LEGGINGS = register("sponge_leggings", SpongeItem.Leggings::new);
+		SPONGE_BOOTS = register("sponge_boots", SpongeItem.Boots::new);
+		TUFF_BRICKS_HELMET = register("tuff_bricks_helmet", TuffBricksItem.Helmet::new);
+		TUFF_BRICKS_CHESTPLATE = register("tuff_bricks_chestplate", TuffBricksItem.Chestplate::new);
+		TUFF_BRICKS_LEGGINGS = register("tuff_bricks_leggings", TuffBricksItem.Leggings::new);
+		TUFF_BRICKS_BOOTS = register("tuff_bricks_boots", TuffBricksItem.Boots::new);
+		OAK_PLANK_HELMET = register("oak_plank_helmet", OakPlankItem.Helmet::new);
+		OAK_PLANK_CHESTPLATE = register("oak_plank_chestplate", OakPlankItem.Chestplate::new);
+		OAK_PLANK_LEGGINGS = register("oak_plank_leggings", OakPlankItem.Leggings::new);
+		OAK_PLANK_BOOTS = register("oak_plank_boots", OakPlankItem.Boots::new);
+		CHORUS_FLOWER_HELMET = register("chorus_flower_helmet", ChorusFlowerItem.Helmet::new);
+		CHORUS_FLOWER_CHESTPLATE = register("chorus_flower_chestplate", ChorusFlowerItem.Chestplate::new);
+		CHORUS_FLOWER_LEGGINGS = register("chorus_flower_leggings", ChorusFlowerItem.Leggings::new);
+		CHORUS_FLOWER_BOOTS = register("chorus_flower_boots", ChorusFlowerItem.Boots::new);
+		MELON_HELMET = register("melon_helmet", MelonItem.Helmet::new);
+		MELON_CHESTPLATE = register("melon_chestplate", MelonItem.Chestplate::new);
+		MELON_LEGGINGS = register("melon_leggings", MelonItem.Leggings::new);
+		MELON_BOOTS = register("melon_boots", MelonItem.Boots::new);
+		RED_SANDSTONE_HELMET = register("red_sandstone_helmet", RedSandstoneItem.Helmet::new);
+		RED_SANDSTONE_CHESTPLATE = register("red_sandstone_chestplate", RedSandstoneItem.Chestplate::new);
+		RED_SANDSTONE_LEGGINGS = register("red_sandstone_leggings", RedSandstoneItem.Leggings::new);
+		RED_SANDSTONE_BOOTS = register("red_sandstone_boots", RedSandstoneItem.Boots::new);
+		BOOKSHELF_HELMET = register("bookshelf_helmet", BookshelfItem.Helmet::new);
+		BOOKSHELF_CHESTPLATE = register("bookshelf_chestplate", BookshelfItem.Chestplate::new);
+		BOOKSHELF_LEGGINGS = register("bookshelf_leggings", BookshelfItem.Leggings::new);
+		BOOKSHELF_BOOTS = register("bookshelf_boots", BookshelfItem.Boots::new);
+		JACK_O_LANTERN_HELMET = register("jack_o_lantern_helmet", JackOLanternItem.Helmet::new);
+		JACK_O_LANTERN_CHESTPLATE = register("jack_o_lantern_chestplate", JackOLanternItem.Chestplate::new);
+		JACK_O_LANTERN_LEGGINGS = register("jack_o_lantern_leggings", JackOLanternItem.Leggings::new);
+		JACK_O_LANTERN_BOOTS = register("jack_o_lantern_boots", JackOLanternItem.Boots::new);
+		RED_MUSHROOM_HELMET = register("red_mushroom_helmet", RedMushroomItem.Helmet::new);
+		RED_MUSHROOM_CHESTPLATE = register("red_mushroom_chestplate", RedMushroomItem.Chestplate::new);
+		RED_MUSHROOM_LEGGINGS = register("red_mushroom_leggings", RedMushroomItem.Leggings::new);
+		RED_MUSHROOM_BOOTS = register("red_mushroom_boots", RedMushroomItem.Boots::new);
+		CALCITE_HELMET = register("calcite_helmet", CalciteItem.Helmet::new);
+		CALCITE_CHESTPLATE = register("calcite_chestplate", CalciteItem.Chestplate::new);
+		CALCITE_LEGGINGS = register("calcite_leggings", CalciteItem.Leggings::new);
+		CALCITE_BOOTS = register("calcite_boots", CalciteItem.Boots::new);
+		BROWN_MUSHROOM_HELMET = register("brown_mushroom_helmet", BrownMushroomItem.Helmet::new);
+		BROWN_MUSHROOM_CHESTPLATE = register("brown_mushroom_chestplate", BrownMushroomItem.Chestplate::new);
+		BROWN_MUSHROOM_LEGGINGS = register("brown_mushroom_leggings", BrownMushroomItem.Leggings::new);
+		BROWN_MUSHROOM_BOOTS = register("brown_mushroom_boots", BrownMushroomItem.Boots::new);
+	}
+
+	// Start of user code block custom items
+	// End of user code block custom items
+	private static <I extends Item> I register(String name, Function<Item.Properties, ? extends I> supplier) {
+		return (I) Items.registerItem(ResourceKey.create(Registries.ITEM, ResourceLocation.fromNamespaceAndPath(BlockArmorMod.MODID, name)), (Function<Item.Properties, Item>) supplier);
+	}
+}

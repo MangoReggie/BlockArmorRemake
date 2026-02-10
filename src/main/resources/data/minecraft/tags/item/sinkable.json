@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "block_armor:granite_helmet",
+    "block_armor:granite_boots",
+    "block_armor:tuff_leggings",
+    "block_armor:red_sandstone_helmet",
+    "block_armor:tuff_chestplate",
+    "block_armor:mossy_stone_brick_boots",
+    "block_armor:stone_boots",
+    "block_armor:tuff_bricks_helmet",
+    "block_armor:tuff_bricks_boots",
+    "block_armor:calcite_helmet",
+    "block_armor:stone_helmet",
+    "block_armor:stone_leggings",
+    "block_armor:mossy_stone_brick_chestplate",
+    "block_armor:red_sandstone_leggings",
+    "block_armor:mossy_stone_brick_helmet",
+    "block_armor:calcite_boots",
+    "block_armor:granite_leggings",
+    "block_armor:stone_chestplate",
+    "block_armor:tuff_helmet",
+    "block_armor:tuff_bricks_leggings",
+    "block_armor:tuff_boots",
+    "block_armor:red_sandstone_chestplate",
+    "block_armor:calcite_leggings",
+    "block_armor:mossy_stone_brick_leggings",
+    "block_armor:red_sandstone_boots",
+    "block_armor:calcite_chestplate",
+    "block_armor:tuff_bricks_chestplate",
+    "block_armor:granite_chestplate"
+  ]
+}

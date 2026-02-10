@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:granite"
+  },
+  "result": {
+    "id": "block_armor:granite_helmet",
+    "count": 1
+  }
+}

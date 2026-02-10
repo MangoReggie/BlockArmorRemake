@@ -1,0 +1,7 @@
+v1	named	intermediary
+FIELD	net/mangoreggie/blockarmor/mixin/EquipmentLayerRendererMixin	Lnet/minecraft/client/resources/model/EquipmentAssetManager;	equipmentAssets	field_54179
+FIELD	net/mangoreggie/blockarmor/mixin/EquipmentLayerRendererMixin	Ljava/util/function/Function;	layerTextureLookup	field_54180
+FIELD	net/mangoreggie/blockarmor/mixin/EquipmentLayerRendererMixin	Ljava/util/function/Function;	trimSpriteLookup	field_54181
+FIELD	net/mangoreggie/blockarmor/mixin/LivingEntityMixin	I	lastHurtByPlayerMemoryTime	field_6238
+METHOD	net/mangoreggie/blockarmor/mixin/EquipmentLayerRendererMixin	(Lnet/minecraft/client/resources/model/EquipmentClientInfo$Layer;I)I	getColorForLayer	method_64076
+METHOD	net/mangoreggie/blockarmor/mixin/LivingEntityMixin	()Z	isAlwaysExperienceDropper	method_6071

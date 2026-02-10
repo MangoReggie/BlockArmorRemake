@@ -1,0 +1,15 @@
+{
+  "_fv": 79,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "R",
+    "keyBindingName": "Special Effect Key",
+    "keyBindingCategoryKey": "misc",
+    "onKeyPressed": {
+      "name": "EffectKeyPressed"
+    },
+    "onKeyReleased": {
+      "name": "EffectKeyReleased"
+    }
+  }
+}

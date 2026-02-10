@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "block_armor:chorus_flower"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "block_armor:chorus_flower"
+      }
+    ]
+  }
+}

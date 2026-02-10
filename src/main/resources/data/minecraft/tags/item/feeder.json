@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "block_armor:melon_chestplate",
+    "block_armor:melon_helmet",
+    "block_armor:melon_leggings",
+    "block_armor:melon_boots"
+  ]
+}

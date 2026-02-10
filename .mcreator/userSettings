@@ -1,0 +1,25 @@
+{
+  "workspacePanelIconSize": "TILES",
+  "workspacePanelSortType": "CREATED",
+  "workspacePanelSortAscending": true,
+  "projectBrowserSplitPos": 0,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, Block Armor]",
+      "[, Block Armor, Source (Gradle)]",
+      "[, Block Armor, Source (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net]",
+      "[, Block Armor, Source (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net\\mcreator]",
+      "[, Block Armor, Source (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net\\mcreator, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net\\mcreator\\blockarmor]",
+      "[, Block Armor, Source (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net\\mcreator, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net\\mcreator\\blockarmor, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\java\\net\\mcreator\\blockarmor\\init]",
+      "[, Block Armor, Resources (Gradle)]",
+      "[, Block Armor, Resources (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets]",
+      "[, Block Armor, Resources (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor]",
+      "[, Block Armor, Resources (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\models]",
+      "[, Block Armor, Resources (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\models, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\models\\item]",
+      "[, Block Armor, Resources (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\textures]",
+      "[, Block Armor, Resources (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\textures, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\textures\\models]",
+      "[, Block Armor, Resources (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\textures, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\textures\\models, C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\assets\\block_armor\\textures\\models\\armor]",
+      "[, Block Armor, Resources (Gradle), C:\\Users\\lucas.raiche\\MCreatorWorkspaces\\block_armor\\src\\main\\resources\\META-INF]"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+/gamemode s'
+/gamemode survival
+/summon minecraft:zombie
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/give @a torch 6 4
+/give @a torch 64
