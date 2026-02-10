@@ -1,0 +1,2 @@
+# BlockArmorRemake
+A from-scratch remake of the popular "Block Armor" mod by 2piradians, now for the latest versions of the game!
